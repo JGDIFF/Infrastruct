@@ -3,6 +3,7 @@ PLANNED FEATURE LIST:
 - Geolocation reporting
 - Potholes
 - Downed Power Lines
+- Fallen Trees
 - Other road / infrastructure 
 -
 -
